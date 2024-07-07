@@ -1,5 +1,4 @@
 # credit_card_financial_dashboard
-power_bi_dashboard
 This Power BI dashboard provides insights into credit card transactions, customer demographics, spending patterns, and other key metrics related to credit card usage.
 It is designed to help stakeholders make data-driven decisions by providing a comprehensive view of the credit card business.# credit_card_financial_dashboard
 power_bi_dashboard 
