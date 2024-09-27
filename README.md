@@ -17,7 +17,6 @@ This Power BI dashboard provides insights into **credit card transactions**, cus
 
 ## Tools Used
 - **Business Intelligence Tool**: Microsoft Power BI
-- **Data Source**: []
 
 ## Insights Gained
 - The dashboard helps identify key customer segments, enabling targeted marketing strategies.
