@@ -9,7 +9,7 @@ This Power BI dashboard provides insights into **credit card transactions**, cus
 - **Spending Patterns**: Understand customer spending patterns across different categories and time periods.
 - **Credit Card Performance**: Evaluate the performance of different credit card products based on usage and revenue metrics.
 - **Risk Analysis**: Identify potential risks by monitoring late payments, credit limits, and overdue amounts.
-- **Dashboard Screenshot**:https://github.com/patilasmit/Credit-Card-Financial-Dashboard/blob/main/Screenshot%20(699).png  https://github.com/patilasmit/Credit-Card-Financial-Dashboard/blob/main/Screenshot%20(698).png
+
 
 
 ## How to Use the Dashboard
